@@ -1,5 +1,5 @@
-import PokemonDetail from "@/app/components/pokemon-detail";
 import React from "react";
+import PokemonDetail from "../../components/pokemon-detail";
 // interface PokemonDetailPageProps {
 //   params: {
 //     id: string;
